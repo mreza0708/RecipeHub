@@ -1,2 +1,2 @@
-# recipe-app-api
-recipe-app-api
+# RecipeHub
+RecipeHub is a fully featured recipe management API built with Django and Django Rest Framework (DRF). It allows users to browse, create, and save recipes with detailed tagging and ingredient tracking. Features include user authentication for personalized recipe management, a robust filtering system for quick recipe searches by tags and ingredients, and optimized performance to handle multiple user requests. The app is designed for developers looking to integrate comprehensive recipe functionality into their applications, offering scalable, RESTful API endpoints ideal for mobile and web platforms.
